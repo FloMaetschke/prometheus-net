@@ -7,6 +7,7 @@ The library targets [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/
 * .NET Framework 4.6.1
 * .NET Core 2.0
 * Mono 5.4
+* **New in this FORK:** .NET 4.6.2 Class Library added, to prevent "DLL Hell"!
 
 ## Installation
 
